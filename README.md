@@ -23,7 +23,7 @@ I am a Theoretical Computer Science Master's student at Université Sorbonne Par
 
 ## Research Interests
 
-| Area |
+| Areas |
 | :--- |
 | **Computational lithography** |
 | **Statistics** |
