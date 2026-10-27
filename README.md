@@ -9,9 +9,9 @@
 
 | Platform | Details |
 | :--- | :--- |
-| Website | [ry4drg.github.io](https://ry4drg.github.io/) |
-| Email | [riyadderguini@gmail.com](mailto:riyadderguini@gmail.com) |
-| LinkedIn | Coming soon |
+| Website: | [ry4drg.github.io](https://ry4drg.github.io/) |
+| Email: | [riyadderguini@gmail.com](mailto:riyadderguini@gmail.com) |
+| LinkedIn: | Coming soon |
 
 ---
 
@@ -23,7 +23,7 @@ I am a Theoretical Computer Science Master's student at Université Sorbonne Par
 
 ## Research Interests
 
-| Areas |
+| Areas: |
 | :--- |
 | **Computational lithography** |
 | **Statistics** |
