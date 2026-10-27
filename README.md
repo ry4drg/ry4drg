@@ -31,7 +31,6 @@ I am a Theoretical Computer Science Master's student at Université Sorbonne Par
 | **Algorithmic geometry** |
 | **Measure-theoretic probability** |
 | **Reinforcement Learning** |
-| **Machine Learning** |
 
 ---
 
