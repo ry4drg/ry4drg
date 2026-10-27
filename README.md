@@ -10,7 +10,7 @@
 | Platform | Details |
 | :--- | :--- |
 | Website | [ry4drg.github.io](https://ry4drg.github.io/) |
-| Email | [riyad.derguini@yahoo.com](mailto:riyadderguini@gmail.com) |
+| Email | [riyadderguini@gmail.com](mailto:riyadderguini@gmail.com) |
 | LinkedIn | Coming soon |
 
 ---
